@@ -1,3 +1,6 @@
-# 仿网易云音乐 
+# 音乐播放器 
 
-包含管理端（admin页面）
+## 后台admin页面预览
+
+
+![admin.gif](https://upload-images.jianshu.io/upload_images/8532417-4612e741a286db29.gif?imageMogr2/auto-orient/strip)

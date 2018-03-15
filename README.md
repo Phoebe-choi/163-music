@@ -7,5 +7,6 @@
 
 
 ### 用例图
-![用例图](https://upload-images.jianshu.io/upload_images/8532417-7bfcb68b229454c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![用例图](https://upload-images.jianshu.io/upload_images/8532417-ba348b75d608da85.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
